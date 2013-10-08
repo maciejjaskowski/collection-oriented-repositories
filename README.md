@@ -1,11 +1,11 @@
 collection-oriented-repositories
 ================================
 
-Zaczyn kodu na Warsjavowy warsztat.
-
-
 Żeby wziąć udział w warsztacie powinieneś zadbać o swoje środowisko deweloperskie.
-Ten warsztat nie jest zbyt wymagający pod względem używanych technologii więc nie powinno to sprawić problemu 
+Ten warsztat nie jest zbyt wymagający pod względem używanych technologii więc nie powinno to sprawić problemu.
+
+Kod który ściągniesz to zaczyn przydatny do ćwiczeń praktycznych oraz przykłady niekoniecznie dobrego kodu -- nie przestrasz się ;) będzie nam służył do analizy podczas warsztatu.
+Pamiętaj zmerge'ować zmiany 
 
 1. sforkuj to repozytorium (do tego potrzebujesz się zarejestrować na GitHub)
 2. sklonuj je na swój komputer
