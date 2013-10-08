@@ -12,7 +12,8 @@ Ten warsztat nie jest zbyt wymagający pod względem używanych technologii wię
 3. odpal w sklonowanym katalogu 'mvn test'. Wszystkie testy powinny przejść lub być zignorowane.
 4. zaimportuj projekt w Eclipse jako projekt mavenowy.
 
-== Wymagania ==
+Wymagania
+---------
 1. Eclipse (ew. inne IDE)
 2. java 6 lub 7
 3. maven + plugin do Eclipse (m2e)
